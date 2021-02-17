@@ -5,4 +5,10 @@ bqplot
 numpy
 pandas
 missingno
+re
 ipywidgets
+dash
+dash_core_components
+dash_html_components
+dash_bootstrap_components
+plotly
