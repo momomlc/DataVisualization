@@ -1,0 +1,9 @@
+voila
+ipyvuetify
+voila-vuetify
+bqplot
+numpy
+pandas
+missingno
+re
+ipywidgets
