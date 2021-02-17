@@ -5,5 +5,4 @@ bqplot
 numpy
 pandas
 missingno
-re
 ipywidgets
